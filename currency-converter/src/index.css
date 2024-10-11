@@ -13,11 +13,11 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: url("C:\Users\jooey\Documents\ALX Capstone project\currency converter app\currency-converter\public\stock-market-chart-technology-blue-background.jpg") no-repeat center center fixed;
+  background: url("bg.png") no-repeat center center fixed;
   background-size: cover;
 }
 
-#root {
+#root {             
   width: 100%;
 }
 
