@@ -45,7 +45,7 @@ This Currency Converter App is a React-based web application that allows users t
    npm start
    ```
 
-6. Open your browser and visit `(https://convert-your-currencies.netlify.app/)` to view the app.
+6. Open your browser and visit [https://convert-your-currencies.netlify.app/](https://convert-your-currencies.netlify.app/) to view the app.
 
 ## Usage
 
